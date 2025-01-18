@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparshvaishya2401" alt="sparshvaishya2401" /></a> </p>
 
-- 🔭 I’m currently working on **Developer**
+- 🔭 I’m currently working on **MERN Stack Developer**
 
 - 🌱 I’m currently learning **DSA**
 
