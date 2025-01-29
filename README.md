@@ -36,7 +36,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,figma,js,html,css,python,express,wordpress" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nextjs,react,redux,nodejs,mongodb,mysql,figma,c,cpp,python,firebase,express,flutter,git" alt="Skills"/>
 </p>
 
 ---
